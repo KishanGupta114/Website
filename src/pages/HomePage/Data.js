@@ -4,10 +4,10 @@ export const homeObjOne = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Marketing Agency',
-  headline: 'Lead Generation Specialist for Online Businesses',
+  topLine: 'A Coders Community',
+  headline: 'Learn To Code For Free',
   description:
-    'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.',
+    'Learn to code with our beginner-friendly tutorials and examples via Coding Memes. That is help you to learn any programming concepts by fun. Read tutorials, try examples, write programs, and learn to code. Do not worry, we are always with you.',
   buttonLabel: 'Get Started',
   imgStart: '',
   img: require('../../images/svg-1.svg'),
